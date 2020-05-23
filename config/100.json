@@ -1,0 +1,11 @@
+{
+    "switch": 0,
+    "games": [{
+            "icon": "https://qqwe5214.github.io/privacy/img/ic_launcher.png",
+            "downUrl": "https://qqwe5214.github.io/privacy/img/ic_launcher.png"
+        }, {
+            "icon": "https://qqwe5214.github.io/privacy/img/logo1.jpg",
+            "downUrl": "https://qqwe5214.github.io/privacy/img/ic_launcher.png"
+        }
+    ]
+}
