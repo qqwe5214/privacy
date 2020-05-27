@@ -1,11 +1,8 @@
 {
-    "switch": 0,
+    "switch": 1,
     "games": [{
             "icon": "https://qqwe5214.github.io/privacy/img/ic_launcher.png",
-            "downUrl": "https://qqwe5214.github.io/privacy/img/ic_launcher.png"
-        }, {
-            "icon": "https://qqwe5214.github.io/privacy/img/logo1.jpg",
-            "downUrl": "https://qqwe5214.github.io/privacy/img/ic_launcher.png"
+            "downUrl": "https://play.google.com/store/apps/details?id=com.ww.caveman"
         }
     ]
 }
