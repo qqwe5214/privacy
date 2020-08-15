@@ -1,5 +1,5 @@
 ## 隐私政策
-[English](index-en.md) 
+[English](index-en) 
 
 ### 序言
 
