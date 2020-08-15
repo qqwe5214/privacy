@@ -1,39 +1,62 @@
-## Welcome to GitHub Pages
+## 隐私政策
+[English](index-en.md) 
 
-Hello gitpage
+### 序言
 
-You can use the [editor on GitHub](https://github.com/qqwe5214/privacy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+您好！欢迎您阅读我们的隐私政策。本政策描述了我们以及我们的第三方营销和广告伙伴如何收集、使用、处理和共享有关您的信息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本隐私政策适用于我们的所有游戏，无论是在我们的网站上、移动设备上、PC 上还是诸如 Facebook 等其他平台上的游戏。它也适用于我们在所有平台上的营销和广告活动活动以及我们不时向您提供的其他服务。在本隐私政策中，我们将我们的游戏、网站、营销活动和广告活动以及其他服务统称我们的“服务”。
 
-### Markdown
+下载、访问或玩我们的游戏，或者与我们的网站或其他服务互动，即表明您同意按照本隐私政策收集和使用您的信息。这包括同意我们和我们的广告伙伴出于本隐私政策中营销和广告部分所述之针对性广告的目的而使用您的数据。该些部分还将说明如何拒绝出于针对性广告的目的而使用您的数据，以及如何撤销您提供的使用权。如果您对向我方提供信息或者以本隐私政策中所述之方式使用该信息存有任何其他顾虑，则您不应当使用我们的游戏或其他服务。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本隐私政策最近更新日期为8.14.2020。
+
+### 玩我们的游戏
+
+下载、访问或玩我们的游戏，或使用我们的其他服务，即代表您同意我们收集与您相关的信息。这些数据中的大多数直接从您或您的设备处收集而来，例如设备信息、国家和地区以及游戏进度信息。我们会使用这些数据来向您提供我们的游戏和服务，包括为了最优化、防止欺诈、定制游戏内产品和确认购买情况等目的。我们还可以将这些信息用于本隐私政策所述的其他目的，包括营销 和广告 目的。
+
+
+### 访问我们的网站
+
+您访问我们的其他网站时，以及我方运营的其他网站和论坛（以下称“网站”）时，我们收集有关您的信息，例如关于您如何使用这些网站并与之互动的详情。我们可以将我们收集的有关您的信息用于许多目的，包括用于运营和优化网站目的、用于我们的广告目的以及研究或分析目的。
+
+### 个人资料以及以社交方式玩游戏
+您能够选择往您的个人资料中加入信息，或使用第三方网络（例如 Facebook）连接我们的服务到您的账户。若您如此做，那么其他玩家就可以看到您的个人信息，并且我们也可以将这些个人信息用于本隐私政策所述的其他目的，包括营销 和广告目的。
+
+### 营销
+除非您如下文解释一般选择退出，否则我们和我们的第三方伙伴会使用我们收集的有关您的信息，来基于您的兴趣向您发送与其他我们的游戏和相关服务有关的营销信息。例如，我们可能发送电子邮件、在我们的服务中投放广告或在第三方网站、应用程序和互联网连接设备上投放广告。
+### 广告
+我们的游戏可能包括第三方产品和服务的广告。接受此隐私政策并下载或继续玩我们的游戏或使用我们的服务，则除非您拒绝使用本部分所述的基于兴趣的广告服务，否则便视为您同意我们和我们的广告伙伴根据其隐私政策收集并使用与您有关的信息，来改进推广、定位和衡量系统，以便于我们在游戏中向您推送第三方的广告。
+
+
+### 广告标识符、cookies 和类似技术
+为了提供我们的游戏、网站和面向兴趣的广告，我们使用广告标识符、cookies 和类似技术。这部分描述我们使用这些技术以及您如何管理您的偏好的内容。
+
+### 您的权利
+您就您的个人信息以及我们如何处理它享有某些权利。您能够在任何时候通过以下“联系我们”部分所述的任何方法，联系我们行使这些权利。
+
+### 儿童
+您必须至少年满一定的年龄才能访问和使用我们的服务，这取决于您的居住地。我们不会在知晓的情况下故意从未达到下文所述年龄的人士收集或征求个人信息，或向其推送或定位面向兴趣的广告，或者在知晓的情况下故意允许此等人士使用我们的服务。如果您认为我们可能拥有来自或有关未达到下文所述年龄的儿童的任何信息，请联系我方。
+
+### 一般规定
+我们的隐私政策包含以下方面的进一步详情：
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- 我们与谁共享您的信息以及共享原因；
+- 我们为保护您的信息安全采取的措施；
+- 我们处理您数据的法律依据；
+- 我们保留您的信息多久以及储存在哪里；
+- 我们何时以及为何与第三方共享您的信息，包括将其传输到欧洲经济区（“EEA”）以外；和
+更改或更新我们的隐私政策。
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 联系我们
+如果您就本隐私政策相关的任何事项有任何疑问或问题，包括行使您的权利，那么可以通过以下方式联系我方：
+```
+1. 向 qqwe5214@gmail.com 发送电子邮件；
 
-### Jekyll Themes
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qqwe5214/privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
