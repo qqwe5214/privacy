@@ -28,9 +28,9 @@ Our games may include advertising for third party products and services. By acce
 
 ### Third-party company SDK collection purpose third-party policy link remarks
 
-Bugly Exception information collection SDK collects APP crash information https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56 
-Admob Provide advertising services https://policies.google.com/privacy?hl=en
-FireBase Count the number of users https://policies.google.cn/privacy
+Bugly Exception information collection SDK collects APP crash information https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56 .
+Admob Provide advertising services https://policies.google.com/privacy?hl=en.
+FireBase Count the number of users https://policies.google.cn/privacy.
 
 ### Ad identifiers, cookies and similar technologies
 To provide our games, Websites and interest-based advertising, we use ad identifiers, cookies and similar technologies. This section describes our use of these technologies and how you can manage your preferences.
