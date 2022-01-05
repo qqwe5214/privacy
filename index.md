@@ -30,9 +30,12 @@
 
 ### 第三方公司SDK收集目的第三方政策链接备注
 
-Bugly 异常信息收集sdk收集APP崩溃信息 https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56.
-Admob 提供广告服务 https://policies.google.com/privacy?hl=en.
-FireBase 统计用户数量 https://policies.google.cn/privacy.
+Bugly 异常信息收集sdk收集APP崩溃信息 https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56.   
+
+Admob 提供广告服务 https://policies.google.com/privacy?hl=en.   
+
+FireBase 统计用户数量 https://policies.google.cn/privacy.   
+
 
 ### 广告标识符、cookies 和类似技术
 为了提供我们的游戏、网站和面向兴趣的广告，我们使用广告标识符、cookies 和类似技术。这部分描述我们使用这些技术以及您如何管理您的偏好的内容。
