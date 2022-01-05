@@ -28,6 +28,11 @@
 ### 广告
 我们的游戏可能包括第三方产品和服务的广告。接受此隐私政策并下载或继续玩我们的游戏或使用我们的服务，则除非您拒绝使用本部分所述的基于兴趣的广告服务，否则便视为您同意我们和我们的广告伙伴根据其隐私政策收集并使用与您有关的信息，来改进推广、定位和衡量系统，以便于我们在游戏中向您推送第三方的广告。
 
+### 第三方公司SDK收集目的第三方政策链接备注
+
+Bugly 异常信息收集sdk收集APP崩溃信息 https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+Admob 提供广告服务 https://policies.google.com/privacy?hl=en
+FireBase 统计用户数量 https://policies.google.cn/privacy
 
 ### 广告标识符、cookies 和类似技术
 为了提供我们的游戏、网站和面向兴趣的广告，我们使用广告标识符、cookies 和类似技术。这部分描述我们使用这些技术以及您如何管理您的偏好的内容。

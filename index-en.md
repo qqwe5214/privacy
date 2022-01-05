@@ -26,6 +26,12 @@ Unless you opt out as explained below, we and our third party partners use infor
 ### Advertising
 Our games may include advertising for third party products and services. By accepting this Privacy Policy and downloading or continuing to play our games or use our Services, and unless you opt out of interest-based advertising as explained in this section, you consent to us and our advertising partners collecting and using information about you to improve advertising, targeting and measurement systems so that we can show you relevant third party ads in our games.
 
+### Third-party company SDK collection purpose third-party policy link remarks
+
+Bugly Exception information collection SDK collects APP crash information https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56 
+Admob Provide advertising services https://policies.google.com/privacy?hl=en
+FireBase Count the number of users https://policies.google.cn/privacy
+
 ### Ad identifiers, cookies and similar technologies
 To provide our games, Websites and interest-based advertising, we use ad identifiers, cookies and similar technologies. This section describes our use of these technologies and how you can manage your preferences.
 ### Your rights
