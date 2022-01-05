@@ -1,5 +1,8 @@
 ## 隐私政策
 [English](index-en) 
+### Update Date
+2021-01-05
+
 
 ### 序言
 

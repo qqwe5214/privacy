@@ -1,5 +1,8 @@
 ## Privacy Policy
 [中文](index.md)
+### Update Date
+2021-01-05
+
 ### Intro
 Hello! Welcome to the Our Privacy Policy. This policy describes how our and its third party marketing and advertising partners collect, use, process and share information about you.
 
