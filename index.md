@@ -1,7 +1,7 @@
 ## 隐私政策
 [English](index-en) 
 ### Update Date
-2021-01-05
+2021-01-15
 
 
 ### 序言
@@ -12,7 +12,6 @@
 
 下载、访问或玩我们的游戏，或者与我们的网站或其他服务互动，即表明您同意按照本隐私政策收集和使用您的信息。这包括同意我们和我们的广告伙伴出于本隐私政策中营销和广告部分所述之针对性广告的目的而使用您的数据。该些部分还将说明如何拒绝出于针对性广告的目的而使用您的数据，以及如何撤销您提供的使用权。如果您对向我方提供信息或者以本隐私政策中所述之方式使用该信息存有任何其他顾虑，则您不应当使用我们的游戏或其他服务。
 
-本隐私政策最近更新日期为8.14.2020。
 
 ### 玩我们的游戏
 
@@ -38,6 +37,8 @@ Bugly 异常信息收集sdk收集APP崩溃信息 https://privacy.qq.com/document
 Admob 提供广告服务 https://policies.google.com/privacy?hl=en.   
 
 FireBase 统计用户数量 https://policies.google.cn/privacy.   
+
+TopOn 提供广告统计服务 https://docs.toponad.com/#/zh-cn/android/NetworkAccess/SDK_Policy/sdk_policy_access. 
 
 
 ### 广告标识符、cookies 和类似技术

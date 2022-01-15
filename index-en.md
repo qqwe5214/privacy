@@ -1,7 +1,7 @@
 ## Privacy Policy
 [中文](index.md)
 ### Update Date
-2021-01-05
+2021-01-15
 
 ### Intro
 Hello! Welcome to the Our Privacy Policy. This policy describes how our and its third party marketing and advertising partners collect, use, process and share information about you.
@@ -10,7 +10,7 @@ This Privacy Policy applies to all of our games, whether played on our website ,
 
 By downloading, accessing and/or playing our games, or interacting with our websites or other Services, you agree to the collection and use of your information in accordance with this Privacy Policy, including consenting to our’s and our advertising partners’ use of your data for targeted advertising purposes as described in the Marketing and Advertising sections of this Privacy Policy. Those sections also explain how you can withhold or withdraw your consent to the use of your data for targeted advertising purposes. If you have any other concerns about providing information to us or it being used as described in this Privacy Policy you should not use our games or other Services.
 
-This Privacy Policy was last updated on 8.14.2020。
+
 
 ### Playing our games
 
@@ -35,7 +35,9 @@ Bugly Exception information collection SDK collects APP crash information https:
 
 Admob Provide advertising services https://policies.google.com/privacy?hl=en.    
 
-FireBase Count the number of users https://policies.google.cn/privacy.    
+FireBase Count the number of users https://policies.google.cn/privacy.  
+
+TopOn Provide advertising services https://docs.toponad.com/#/zh-cn/android/NetworkAccess/SDK_Policy/sdk_policy_access. 
 
 
 ### Ad identifiers, cookies and similar technologies
